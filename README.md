@@ -1,6 +1,6 @@
 # Variational Autoencoder for Image Generation
 
-This project explores **image generation using Variational Autoencoders (VAEs)** and compares the results to a **diffusion-based generative model**, using the **CIFAR-10 dataset**. The models are evaluated both qualitatively (generated image samples) and quantitatively using the **Structural Similarity Index (SSIM)**.
+This project explores image generation using Variational Autoencoders (VAEs) and compares the results to a diffusion-based generative model, using the CIFAR-10 dataset. The models are evaluated both qualitatively (generated image samples) and quantitatively using the Structural Similarity Index (SSIM).
 
 ## Repository Structure
 
